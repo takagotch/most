@@ -67,5 +67,6 @@ bower install --save most
 ```
 
 ```
+<script src="https://unpkg.com/most/dist/most.js"></scirpt>
 ```
 
